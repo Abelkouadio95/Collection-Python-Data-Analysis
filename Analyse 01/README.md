@@ -1,4 +1,4 @@
-🎬 TMDB Movies Dataset — Exploratory Data Analysis (EDA)
+#🎬 TMDB Movies Dataset — Exploratory Data Analysis (EDA)
 Ce projet explore le jeu de données des films provenant de The Movie Database (TMDB). Il contient des informations sur plus de 10 000 films : titres, genres, budget, recettes, dates de sortie, scores des spectateurs, etc.
 🧠 Objectif de l’analyse
 L’objectif est de mener une analyse exploratoire typique d’un data analyst, afin d’identifier les tendances clés et de répondre à des questions pertinentes autour de la performance des films.
